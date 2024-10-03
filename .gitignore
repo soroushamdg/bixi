@@ -1,4 +1,8 @@
 raw_data/
 montreal_weather/
+question1_data/
+question2_data/
+daily_weather/
+presentation/
 .ipynb_checkpoints/
 .DS_Store
