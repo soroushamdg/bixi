@@ -6,3 +6,6 @@ daily_weather/
 presentation/
 .ipynb_checkpoints/
 .DS_Store
+apikey.txt
+question3_data/2024TripTimeTable.csv
+question3_data/test_estimated_time.csv
